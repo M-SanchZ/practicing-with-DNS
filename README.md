@@ -1,4 +1,4 @@
-### Step-by-Step Tutorial for DNS and CNAME Exercises on DC-1 and Client-1 in Azure
+### Step-by-Step Tutorial for DNS and CNAME Exercises on DC-1 and Client-1 in Azure (These are VMs I have previously set up)
 
 #### **Pre-Requisite: Turn on VMs**
 1. **Log into the Azure Portal**:
