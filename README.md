@@ -149,18 +149,24 @@
      ![image](https://github.com/user-attachments/assets/f2e41db0-7082-4106-bf17-f303e737b5f7)
 
    - Click **OK** to create the CNAME record.
+     ![image](https://github.com/user-attachments/assets/90f7d849-dfa9-4c46-84b9-e1ea04bf09f6)
+
 
 2. **Ping “search” from Client-1**:
-   - On **Client-1**, in **Command Prompt**:
+   - On **Client-1**, in **Powershell**:
      ```cmd
      ping search
      ```
+     ![image](https://github.com/user-attachments/assets/7f8331d1-d57f-4c83-8fb5-46557e5737ed)
+
 
 3. **Use nslookup to Verify the CNAME Record**:
-   - On **Client-1**, in **Command Prompt**:
+   - On **Client-1**, in **Powershell**:
      ```cmd
      nslookup search
      ```
+     ![image](https://github.com/user-attachments/assets/402a98d4-21bc-42c7-a5a8-e610e130915e)
+
 
 ---
 
