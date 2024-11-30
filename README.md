@@ -1,3 +1,11 @@
+
+![image](https://github.com/user-attachments/assets/88de3861-1eff-4ea1-bcca-e40ba51bcb2f)
+
+
+
+
+
+
 ### Step-by-Step Tutorial for DNS and CNAME Exercises on DC-1 and Client-1 in Azure
 
 #### **Pre-Requisite: Turn on VMs**
